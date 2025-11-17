@@ -52,16 +52,16 @@ sections:
     # design:
       # view: article-grid
       # columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: true
-    design:
-      view: citation
+  # - block: collection
+    # content:
+      # title: Recent Publications
+      # text: ''
+      # filters:
+        # folders:
+          # - publications
+        # exclude_featured: true
+    # design:
+      # view: citation
   - block: collection
     id: talks
     content:
