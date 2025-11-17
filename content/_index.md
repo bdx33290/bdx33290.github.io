@@ -59,7 +59,7 @@ sections:
       filters:
         folders:
           - publications
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
   - block: collection
@@ -86,9 +86,9 @@ sections:
         author: ''
         category: ''
         tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
+        exclude_featured: true
+        exclude_future: true
+        exclude_past: true
         publication_type: ''
       # Choose how many pages you would like to offset by
       offset: 0
