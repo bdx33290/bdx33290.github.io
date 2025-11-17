@@ -171,6 +171,9 @@
 
 - id: experience
   translation: Expériences
+  
+- id: Awards
+  translation: Diplômes
 
 - id: present
   translation: Actuellement
