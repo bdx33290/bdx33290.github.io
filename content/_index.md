@@ -78,7 +78,7 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: blog
+      page_type: 
       # Choose how many pages you would like to display (0 = all pages)
       count: 
       # Filter on criteria
