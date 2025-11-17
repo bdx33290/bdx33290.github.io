@@ -39,9 +39,9 @@ sections:
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 
         Please reach out to collaborate 😃
-    design:
+   <!--  design:
       columns: '1'
-<!--   - block: collection
+  - block: collection
     id: papers
     content:
       title: Featured Publications
@@ -99,7 +99,7 @@ sections:
       view: card
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0] -->
+        padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
@@ -116,7 +116,7 @@ sections:
         text: Get Started
         url: https://hugoblox.com/templates/
     design:
-      card:
+      card: -->
         # Card background color (CSS class)
         css_class: 'bg-primary-300 dark:bg-primary-700'
         css_style: ''
