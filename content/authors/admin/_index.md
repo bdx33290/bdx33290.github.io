@@ -68,38 +68,38 @@ education:
     institution: Université de Bordeaux
     icon: ""
     date_start: 2024-09-01
-    date_end: 2025-05-31
+    date_end: 2025-05-31:
     summary: |
       GPA: 4.0/4.0
 
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+  - area: Brevet des Collèges
+    institution: Co
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2018-09-01
+    date_end: 2021-05-31
     summary: |
       GPA: 3.9/4.0
 
       Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Employé polyvalent 
+    company_name: Leclerc Bègles
+    company_url: 'https://maps.app.goo.gl/hrG4wz9LSNYmWPJb8'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2024-01-02
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Mise en rayon. Caisse. Boulangerie et coupe boucherie.
+  - position: Assistant Commercial 
+    company_name: CORHOFI
+    company_url: 'https://www.corhofi.com/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2025-06-01
+    date_end: 2025-06-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Gestion relation client, Démarchage et Relance téléphonique, Suivi administratif.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -146,27 +146,27 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
+  - title: Baccalauréat
     url: https://neurips.cc/
     date: '2022-12-01'
     awarder: NeurIPS
-    icon: hero/trophy
+    icon: hero/academic-cap
     summary: |
       Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
+  - title: Création activité Nettoyage de voiture
     url: https://www.nsf.gov/
     date: '2021-06-15'
-    awarder: National Science Foundation
+    awarder: Activité personnelle
     icon: hero/currency-dollar
     summary: |
       $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
+  - title: Coupe foot / niveau???
     url: https://www.stanford.edu/
     date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
+    awarder: Union Saint Jean
+    icon: hero/trophy 
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      activité sportive.
 ---
 
 Romain Mazoyer--Lescouet is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
