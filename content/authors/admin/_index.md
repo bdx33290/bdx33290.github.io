@@ -68,7 +68,7 @@ education:
     institution: Université de Bordeaux
     icon: ""
     date_start: 2024-09-01
-    date_end: 2025-05-31:
+    date_end: 2025-05-31
     summary: |
       GPA: 4.0/4.0
 
