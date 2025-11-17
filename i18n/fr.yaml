@@ -149,6 +149,9 @@
 
 - id: interests
   translation: Intérêts
+  
+  - id: Professional Summary 
+  translation: A propos de moi
 
 - id: education
   translation: Éducation
