@@ -16,7 +16,7 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Téléchargement CV
         url: uploads/resume.pdf
       headings:
         about: ''
@@ -42,7 +42,7 @@ sections:
     design:
       columns: '1'
    - block: collection
-    id: 
+    id: papers
     content:
       title: Featured Publications
       filters:
