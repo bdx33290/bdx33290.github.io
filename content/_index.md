@@ -41,17 +41,17 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+    # id: papers
+    # content:
+      # title: Featured Publications
+      # filters:
+        # folders:
+          # - publications
+        # featured_only: true
+    # design:
+      # view: article-grid
+      # columns: 2
   - block: collection
     content:
       title: Recent Publications
@@ -78,9 +78,9 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: 
+      page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
-      count: 
+      count: 5
       # Filter on criteria
       filters:
         author: ''
