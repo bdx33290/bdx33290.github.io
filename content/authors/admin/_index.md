@@ -70,18 +70,18 @@ education:
     date_start: 2021-09-01
     date_end: 2024-06-30
     summary: |
-      GPA: 4.0/4.0
+      Mention: AB
 
-      Specialized in machine learning and robotics.
+      Spécialité SES.
   - area: Brevet des Collèges
     institution: Collège Aliénor d'Aquitaine
     icon: ""
     date_start: 2018-09-01
     date_end: 2021-05-31
     summary: |
-      GPA: 3.9/4.0
+      Mention: B
 
-      Minored in Mathematics. President of AI Club.
+      #Minored in Mathematics. President of AI Club.
 
 work:
   - position: Employé polyvalent 
